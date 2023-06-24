@@ -1,0 +1,34 @@
+#include<stdio.h>
+main(){
+    int number;
+    printf("enter the number");
+    scanf("%d",&number);
+    if(number==0)
+    {
+        printf("sunday");
+    }
+    if(number==1)
+    {
+        printf("monday");
+    } 
+     if(number==2)
+    {
+        printf("tuesday");
+    }
+     if(number==3)
+    {
+        printf("wednesday");
+    }
+     if(number==4)
+    {
+        printf("thursday");
+    }
+     if(number==5)
+    {
+        printf("friday");
+    }
+    if(number==6)
+    {
+        printf("sautrday");
+    }
+}

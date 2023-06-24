@@ -1,0 +1,5 @@
+a=input("enter the first number")
+b=input("enter the secound number")
+result=int(a)+int(b)
+print(int(a)+int(b))
+print(type(result))
